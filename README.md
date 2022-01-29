@@ -1,5 +1,5 @@
 ## 💛 Draw my dream, Paint my dream 
-##### ➡️ 예쁘게 꿈꾸고 그린다
+##### 예쁘게 꿈꾸고 그린다
 
 <!--
 **yello-ow/yello-ow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
