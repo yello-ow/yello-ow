@@ -15,9 +15,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yello-ow&layout=compact&theme=great-gatsby" width=42% height=300/>
 </a>
+ <br>
+ - 코드 스테이츠 AI 부트캠프 : 2021.07. - 2022.01. 
 </div>
  
- <center> - 코드 스테이츠 AI 부트캠프 : 2021.07. - 2022.01. </center>
 
 
 <!--
