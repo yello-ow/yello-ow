@@ -5,6 +5,11 @@
 
 <br>
  
+💛 Draw my dream, Paint my dream   
+ 예쁘게 꿈꾸고 그린다   
+ 
+ <br>
+ 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=yello-ow&show_icons=true&theme=great-gatsby&count_private=true" width=50% height=300/>
 </a>
