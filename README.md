@@ -1,5 +1,6 @@
 <div align="center">
-
+<br>
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23FEEC6A&size=30&center=true&vCenter=true&width=850&height=70&lines=Hello%2C+yello-ow+world)](https://git.io/typing-svg)
 
 <br>
