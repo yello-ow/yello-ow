@@ -5,8 +5,8 @@
 
 <br>
  
-💛 Draw my dream, Paint my dream   
- 예쁘게 꿈꾸고 그린다   
+<h3> 💛 Draw my dream, Paint my dream 💛  
+<h4> 예쁘게 꿈꾸고 그린다   
  
  <br>
  
