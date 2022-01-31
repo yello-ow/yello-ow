@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23FEEC6A&size=30&center=true&vCenter=true&width=850&height=70&lines=Hello%2C+yello-ow+world)](https://git.io/typing-svg)
 
-<br><br>
+<br>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=yello-ow&show_icons=true&theme=great-gatsby&count_private=true" width=50% height=300/>
