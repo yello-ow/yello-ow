@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tangerine&color=%23F7EB29&size=27&center=true&vCenter=true&lines=Draw+my+dream%2C+Paint+my+dream)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Parisienne&color=%23F7F118&size=47&center=true&vCenter=true&width=700&height=70&lines=Draw+my+dream%2C+Paint+my+dream)](https://git.io/typing-svg)
 ##### 예쁘게 꿈꾸고 그린다
 
 <!--
