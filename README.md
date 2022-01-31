@@ -15,12 +15,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yello-ow&layout=compact&theme=great-gatsby" width=42% height=300/>
 </a>
- <br>
- <br>
-<a> 
- 코드 스테이츠 AI 부트캠프 : 2021.07. - 2022.01.
-</a>
 </div>
+ 
+ <center> - 코드 스테이츠 AI 부트캠프 : 2021.07. - 2022.01. </center>
+
 
 <!--
 **yello-ow/yello-ow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
