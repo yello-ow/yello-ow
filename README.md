@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23FEEC6A&size=30&center=true&vCenter=true&width=850&height=70&lines=Hello%2C+yello-ow+world)](https://git.io/typing-svg)
 
  
- <h2> 💛 Draw my dream, Paint my dream 💛 </h2>
- <h3> 예쁘게 꿈꾸고 그린다  </h3>
+ <h3> 💛 Draw my dream, Paint my dream 💛 </h3>
+ <h4> 예쁘게 꿈꾸고 그린다  </h4>
  
  <br>
  
