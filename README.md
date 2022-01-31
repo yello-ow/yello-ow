@@ -7,7 +7,6 @@
  <h3> 💛 Draw my dream, Paint my dream 💛 </h3>
  <h4> 예쁘게 꿈꾸고 그린다  </h4>
  
- <br>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=yello-ow&show_icons=true&theme=great-gatsby&count_private=true" width=50% height=300/>
@@ -17,6 +16,7 @@
 </a>
  <br>
  💻 코드 스테이츠 AI 부트캠프 5기 : 2021.07. - 2022.01. 
+ <br>
 </div>
  
 
