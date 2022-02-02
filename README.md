@@ -1,7 +1,11 @@
 <div align="center">
-<br>
+ <br>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23FEEC6A&size=30&center=true&vCenter=true&width=850&height=70&lines=Hello%2C+yello-ow+world)](https://git.io/typing-svg)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyello-ow&count_bg=%23F0AF31&title_bg=%236D6B6B&icon=&icon_color=%23C6C2C2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+ <br>
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23FEEC6A&size=30&center=true&vCenter=true&width=850&height=70&lines=Hello%2C+yello-ow+world)](https://git.io/typing-svg)
 
  
  <h3> 💛 Draw my dream, Paint my dream 💛 </h3>
